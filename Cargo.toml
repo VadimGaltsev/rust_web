@@ -1,0 +1,11 @@
+[package]
+name = "rust_web"
+version = "0.1.0"
+authors = ["vaiklol <samokatanet@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+quicksilver = "*"
+stdweb = "0.4.16"
+nalgebra = "^0.17.0"
+ncollide2d = "0.19"
