@@ -6,6 +6,10 @@ edition = "2018"
 
 [dependencies]
 quicksilver = "*"
-stdweb = "0.4.16"
-nalgebra = "^0.17.0"
-ncollide2d = "0.19"
+nphysics2d ="0.11.1"
+nalgebra = "0.18.0"
+ncollide2d = "0.19.1"
+nphysics_testbed2d = "*"
+laminar = "0.2.1"
+crossbeam = "0.7.1"
+byteorder = "1.3.1"
